@@ -1,3 +1,5 @@
+//Nama Programmer : Muhammad Fahru Fadillah
+
 int pinLED1 = 2;
 int pinLED2 = 3;
 int pinLED3 = 4;
