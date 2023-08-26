@@ -1,5 +1,6 @@
 //Muhammad Fahru Fadillah
 //Programmer
+//Motor Test Menggunakan L293D
 
 #include <AFMotor.h> //library motor DC
 
